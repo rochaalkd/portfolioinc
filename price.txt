@@ -1,0 +1,9 @@
+Currency             Rate($)        
+1)Bitcoin           23176.00          
+2)Tether            1.002
+3)Etherum           1712.11  
+4)Binance USD        1.00
+5)Solana             39.88
+6)Polkadot           8.46
+7)Dogecoin           0.06856
+8)Helium             8.11
